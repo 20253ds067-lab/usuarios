@@ -1,0 +1,6 @@
+mx\edu\utez\proyecto1c\controller\dto\RequestCrearUsuarioDTO.class
+mx\edu\utez\proyecto1c\model\repository\persona\PersonaRepository.class
+mx\edu\utez\proyecto1c\controller\dto\RequestActualizarUsuarioDTO.class
+mx\edu\utez\proyecto1c\controller\dto\RequestActualizarPersonaDTO.class
+mx\edu\utez\proyecto1c\service\persona\PersonaService.class
+mx\edu\utez\proyecto1c\controller\persona\PersonaController.class
